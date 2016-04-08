@@ -1,0 +1,13 @@
+{
+  "name": "spaceblox-server",
+  "version": "1.0.0",
+  "description": "A lightweight mobile-friendly application for Facilities Management. Engineered for cloud.",
+  "dependencies": {
+	"express": "latest",
+	"mongoose":"latest",
+	"morgan":"latest",
+	"body-parser":"latest",
+	"cookie-parser":"latest",
+	"compression":"latest"
+  }
+}
